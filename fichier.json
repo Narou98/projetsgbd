@@ -1,0 +1,14 @@
+{
+    "voitures":[
+        {
+            "matricule":"DK356AB",
+            "couleur":"rouge",
+            "marque" :"Ford"
+        },
+        {
+            "matricule":"DK326BB",
+            "couleur":"noire",
+            "marque" :"Toyota"
+        }
+    ]
+}
