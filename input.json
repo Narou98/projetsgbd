@@ -1,0 +1,45 @@
+[
+  {
+    "Etudiant": [
+      {
+        "Id Etudiant": "88",
+        "Nom": "DIOUF",
+        "Prenom": "Elisabeth Ndame"
+      }
+    ],
+    "relations": {
+      "associations": [
+        {
+          "nomAutreEntite": "Cours",
+          "nomAssoc": "Suivre"
+        }
+      ]
+    }
+  },
+  {
+    "Professeur": [
+      {
+        "Id Professeur": "9999",
+        "Nom": "FAYE",
+        "Prenom": "Roger"
+      }
+    ],
+    "relations": {
+      "associations": [
+        {
+          "nomAutreEntite": "Cours",
+          "nomAssoc": "Dispense"
+        }
+      ]
+    }
+  },
+  {
+    "Cours": [
+      {
+        "id-cours": "Maths" ,
+        "Nom Cours": "Maths" 
+      }
+    ]
+  }
+  
+]
