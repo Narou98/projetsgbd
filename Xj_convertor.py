@@ -1,6 +1,5 @@
 
-						
-		 		import json
+import json
 import sys
 #import lxml
 import svgwrite
