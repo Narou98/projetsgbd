@@ -290,7 +290,7 @@ if ((len(sys.argv) == 7) or (len(sys.argv) == 8)):
             myJsonData = parseJSON(myFile)
             print(myJsonData)
             
-           #Main    
+       
 
             if ((len(sys.argv) == 7) or (len(sys.argv) == 8)):
                 filetype = sys.argv[2]
