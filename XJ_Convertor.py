@@ -145,7 +145,7 @@ if ((len(sys.argv) == 7) or (len(sys.argv) == 8)):
                 for key in myJsonData[entite]['attributs']:
                     print('\t\t')
             if (i % 2 == 0):
-                # Creation du rectangle contenant les infos de l'entite
+              
                 svg_document.add(svg_document.rect(insert = (10, i*150 + 10),
                                                    size = ("150px", "130px"),
                                                    stroke_width = "1",
