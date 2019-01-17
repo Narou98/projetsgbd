@@ -26,10 +26,7 @@
     ],
     "relations": {
       "associations": [
-        {
-          "nomAutreEntite": "Cours",
-          "nomAssoc": "Dispense"
-        }
+        
       ]
     }
   },
@@ -39,7 +36,12 @@
         "id-cours": "Maths" ,
         "Nom Cours": "Maths" 
       }
-    ]
+    ],
+    "relations": {
+      "associations": [
+        
+      ]
+    }  
   }
   
 ]
